@@ -48,7 +48,7 @@ cd seu-repositorio
       JavaScript (ES6+)
 
    📸 Prévia do projeto
-  ![Preview do Projeto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsalCmnXAfQA&psig=AOvVaw2Wg0YI4QYubjn626LufBAB&ust=1738765796285000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMidvcKdqosDFQAAAAAdAAAAABAE)
+  ![Preview do Projeto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techtudo.com.br%2Fdicas-e-tutoriais%2F2022%2F02%2Fspotify-web-como-usar-o-streaming-no-navegador.ghtml&psig=AOvVaw17UiKrA-32EyVuHojsITIk&ust=1738765901494000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCLo_KdqosDFQAAAAAdAAAAABAE)
 
 
   📜 Créditos
