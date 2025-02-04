@@ -4,21 +4,22 @@ Este projeto é um clone da interface do Spotify, desenvolvido como parte da **I
 
 ## 📂 Estrutura do Projeto  
 
-📦 seu-repositorio
-┣ 📂 src
-┃ ┣ 📂 assets
-┃ ┃ ┣ 📂 icons → Ícones do projeto
-┃ ┃ ┗ 📂 playlist → Imagens das playlists
-┃ ┣ 📂 styles
-┃ ┃ ┣ 📜 reset.css → Reset de estilos
-┃ ┃ ┣ 📜 vars.css → Variáveis CSS
-┃ ┃ ┣ 📜 main-content.css → Estilos do conteúdo principal
-┃ ┃ ┣ 📜 sidebar-footer.css → Estilos da barra lateral e rodapé
-┃ ┃ ┗ 📜 media-query.css → Estilos responsivos
-┃ ┣ 📜 script.js → Funcionalidades JavaScript
-┃ ┗ 📜 search.js → Lógica da busca
-┣ 📜 index.html → Página principal
-┣ 📜 README.md → Documentação do projeto
+📦 seu-repositorio  
+┣ 📂 src  
+┃ ┣ 📂 assets  
+┃ ┃ ┣ 📂 icons → Ícones do projeto  
+┃ ┃ ┗ 📂 playlist → Imagens das playlists  
+┃ ┣ 📂 styles  
+┃ ┃ ┣ 📜 reset.css → Reset de estilos  
+┃ ┃ ┣ 📜 vars.css → Variáveis CSS  
+┃ ┃ ┣ 📜 main-content.css → Estilos do conteúdo principal  
+┃ ┃ ┣ 📜 sidebar-footer.css → Estilos da barra lateral e rodapé  
+┃ ┃ ┗ 📜 media-query.css → Estilos responsivos  
+┃ ┣ 📜 script.js → Funcionalidades JavaScript  
+┃ ┗ 📜 search.js → Lógica da busca  
+┣ 📜 index.html → Página principal  
+┣ 📜 README.md → Documentação do projeto  
+
 
 
 ## 🚀 Funcionalidades  
