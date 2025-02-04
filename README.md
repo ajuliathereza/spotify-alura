@@ -48,7 +48,7 @@ cd seu-repositorio
       JavaScript (ES6+)
 
    📸 Prévia do projeto
-  ![Preview do Projeto]([https://seu-site.com/imagem.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsalCmnXAfQA&psig=AOvVaw2Wg0YI4QYubjn626LufBAB&ust=1738765796285000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMidvcKdqosDFQAAAAAdAAAAABAE)
+  ![Preview do Projeto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsalCmnXAfQA&psig=AOvVaw2Wg0YI4QYubjn626LufBAB&ust=1738765796285000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMidvcKdqosDFQAAAAAdAAAAABAE)
 
 
   📜 Créditos
