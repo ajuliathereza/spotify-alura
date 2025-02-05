@@ -45,6 +45,7 @@ cd seu-repositorio
       JavaScript (ES6+)
 
    📸 Prévia do projeto
+   
    ![Captura de tela 2025-02-05 193523](https://github.com/user-attachments/assets/ba5432df-e0f4-4d49-8aeb-9580cd44437e)
 
 
