@@ -16,7 +16,7 @@ Este projeto é um clone da interface do Spotify, desenvolvido como parte da **I
 ┃ ┃ ┣ 📜 sidebar-footer.css → Estilos da barra lateral e rodapé  
 ┃ ┃ ┗ 📜 media-query.css → Estilos responsivos  
 ┃ ┣ 📜 script.js → Funcionalidades JavaScript  
-┃ ┗ 📜 search.js → Lógica da busca  
+┃ ┗ 📜 search.js →  
 ┣ 📜 index.html → Página principal  
 ┣ 📜 README.md → Documentação do projeto  
 
