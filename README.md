@@ -32,8 +32,7 @@ Este projeto é um clone da interface do Spotify, desenvolvido como parte da **I
 ## 🛠 Como executar o projeto  
 
 1. **Clone o repositório**  
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+  
 
 2. **Acesse o diretório**
 cd seu-repositorio
