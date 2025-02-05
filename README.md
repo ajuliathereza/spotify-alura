@@ -45,7 +45,8 @@ cd seu-repositorio
       JavaScript (ES6+)
 
    📸 Prévia do projeto
-  ![Preview do Projeto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techtudo.com.br%2Fdicas-e-tutoriais%2F2022%2F02%2Fspotify-web-como-usar-o-streaming-no-navegador.ghtml&psig=AOvVaw17UiKrA-32EyVuHojsITIk&ust=1738765901494000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCLo_KdqosDFQAAAAAdAAAAABAE)
+   ![Captura de tela 2025-02-05 193523](https://github.com/user-attachments/assets/ba5432df-e0f4-4d49-8aeb-9580cd44437e)
+
 
 
   📜 Créditos
