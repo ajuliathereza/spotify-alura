@@ -37,10 +37,7 @@ Este projeto é um clone da interface do Spotify, desenvolvido como parte da **I
 2. **Acesse o diretório**
 cd seu-repositorio
 
-3. **Abra o arquivo index.html no navegador**
-   start index.html  # Windows  
-   open index.html   # macOS  
-   xdg-open index.html  # Linux
+3. 
 
    📌 Tecnologias utilizadas
       HTML5
